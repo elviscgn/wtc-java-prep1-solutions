@@ -20,16 +20,16 @@ Fork the repo to get started
 ## Progress Tracker
 
 ### Section 1 — Java Syntax Basics
-- [ ] Exercise 1.1 — Temperature Converter
-- [ ] Exercise 1.2 — Number Analyser
-- [ ] Exercise 1.3 — String Detective
+- [x] Exercise 1.1 — Temperature Converter
+- [x] Exercise 1.2 — Number Analyser
+- [x] Exercise 1.3 — String Detective
 
 ### Section 2 — Encapsulation
-- [ ] Exercise 2.1 — Bank Account
-- [ ] Exercise 2.2 — Student Record
+- [x] Exercise 2.1 — Bank Account
+- [x] Exercise 2.2 — Student Record
 
 ### Section 3 — Inheritance
-- [ ] Exercise 3.1 — Animal Kingdom
+- [x] Exercise 3.1 — Animal Kingdom
 - [ ] Exercise 3.2 — Employee Payroll System
 
 ### Section 4 — Polymorphism
