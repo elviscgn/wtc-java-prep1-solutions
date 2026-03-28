@@ -1,0 +1,10 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "tests/lib/junit-standalone.jar"
+    ],
+    "java.project.sourcePaths": [
+    "solutions",
+    "tests"
+  ]
+}
