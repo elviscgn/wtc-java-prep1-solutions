@@ -4,7 +4,8 @@ Java OOP exercise suite for WeThinkCode_ Assessment 1
 
 > **Rule:** Write every file from scratch. No copying.
 
----
+Fork the repo to get started
+
 
 ## Assessment Topics
 
