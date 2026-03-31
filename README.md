@@ -30,7 +30,7 @@ Fork the repo to get started
 
 ### Section 3 — Inheritance
 - [x] Exercise 3.1 — Animal Kingdom
-- [ ] Exercise 3.2 — Employee Payroll System
+- [x] Exercise 3.2 — Employee Payroll System
 
 ### Section 4 — Polymorphism
 - [ ] Exercise 4.1 — Shape Calculator
