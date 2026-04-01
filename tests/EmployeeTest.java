@@ -13,7 +13,10 @@ class EmployeeTest {
     @Test @DisplayName("FullTimeEmployee.calculatePay() returns monthly salary")
     void fullTimePay() {
         FullTimeEmployee e = new FullTimeEmployee("Alice", "E001", "Engineering", 50_000.0);
+<<<<<<< HEAD
         System.out.println("aaa");
+=======
+>>>>>>> upstream/main
         assertEquals(50_000.0, e.calculatePay(), 0.001);
     }
 

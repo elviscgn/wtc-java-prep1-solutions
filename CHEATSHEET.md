@@ -37,10 +37,17 @@ Keep this open while you code.
 
 | | Abstract Class | Interface |
 |---|---|---|
+<<<<<<< HEAD
 | Can have fields? | YES Yes | NO No (only constants) |
 | Can have constructors? | YES Yes | NO No |
 | Can have implemented methods? | YES Yes | YES Only `default`/`static` |
 | Multiple inheritance? | NO One only | YES Many interfaces |
+=======
+| Can have fields? |   Yes | NO No (only constants) |
+| Can have constructors? |   Yes | NO No |
+| Can have implemented methods? |   Yes | YES Only `default`/`static` |
+| Multiple inheritance? |   One only |   Many interfaces |
+>>>>>>> upstream/main
 | Use when... | Sharing real code among related classes | Defining a capability for unrelated classes |
 
 ---
@@ -148,4 +155,8 @@ git push origin main            # push to remote
 git pull                        # pull from remote
 ```
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> upstream/main

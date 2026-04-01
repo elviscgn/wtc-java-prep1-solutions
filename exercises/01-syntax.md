@@ -15,6 +15,15 @@ Create a file called `TemperatureConverter.java`. Write a class with three stati
 - `fahrenheitToCelsius(double f)` — returns double
 - `celsiusToKelvin(double c)` — returns double
 
+<<<<<<< HEAD
+=======
+**Formulas:**
+- °F = (°C × 9/5) + 32
+- °C = (°F - 32) × 5/9
+- K = °C + 273.15
+
+
+>>>>>>> upstream/main
 **You must use:**
 - `static` methods
 - `double` return types
@@ -71,4 +80,8 @@ isPalindrome("Hello") = false
 countVowels("WeThinkCode") = 4
 reverseWords("hello world java") = java world hello
 capitaliseEachWord("we think code") = We Think Code
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> upstream/main
