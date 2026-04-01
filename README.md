@@ -1,18 +1,10 @@
-<<<<<<< HEAD
 # My Solutions (DO NOT COPY!!!!)
-=======
-# wtc-java-prep
->>>>>>> upstream/main
 
 Java OOP exercise suite for WeThinkCode_ Assessment 1
 
 > **Rule:** Write every file from scratch. No copying.
 
-<<<<<<< HEAD
-Fork the repo to get started
-=======
 Fork the repo to get started; It works well on vscode
->>>>>>> upstream/main
 
 
 ## Assessment Topics
@@ -22,29 +14,11 @@ Fork the repo to get started; It works well on vscode
 - Build Tools (Maven)
 - Syntax & Coding
 - Object-Oriented Programming (OOP)
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> upstream/main
 ---
 
 ## Progress Tracker
 
 ### Section 1 — Java Syntax Basics
-<<<<<<< HEAD
-- [x] Exercise 1.1 — Temperature Converter
-- [x] Exercise 1.2 — Number Analyser
-- [x] Exercise 1.3 — String Detective
-
-### Section 2 — Encapsulation
-- [x] Exercise 2.1 — Bank Account
-- [x] Exercise 2.2 — Student Record
-
-### Section 3 — Inheritance
-- [x] Exercise 3.1 — Animal Kingdom
-- [x] Exercise 3.2 — Employee Payroll System
-=======
 - [ ] Exercise 1.1 — Temperature Converter
 - [ ] Exercise 1.2 — Number Analyser
 - [ ] Exercise 1.3 — String Detective
@@ -56,7 +30,6 @@ Fork the repo to get started; It works well on vscode
 ### Section 3 — Inheritance
 - [ ] Exercise 3.1 — Animal Kingdom
 - [ ] Exercise 3.2 — Employee Payroll System
->>>>>>> upstream/main
 
 ### Section 4 — Polymorphism
 - [ ] Exercise 4.1 — Shape Calculator
@@ -66,11 +39,7 @@ Fork the repo to get started; It works well on vscode
 - [ ] Exercise 5.1 — Vehicle Fleet
 - [ ] Exercise 5.2 — Game Characters (RPG)
 
-<<<<<<< HEAD
-### Section 6 — Interfaces
-=======
 ### Section 6 — Interfaces (not sure if they'll come)
->>>>>>> upstream/main
 - [ ] Exercise 6.1 — Printable and Saveable
 - [ ] Exercise 6.2 — Smart Home Devices
 
@@ -80,11 +49,7 @@ Fork the repo to get started; It works well on vscode
 
 ### Section 8 — Combining Everything
 - [ ] Exercise 8.1 — Zoo Management System
-<<<<<<< HEAD
 - [ ] Exercise 8.2 — Robot Command System
-=======
-- [ ] Exercise 8.2 — Robot Command System 
->>>>>>> upstream/main
 
 ### Section 9 — Build Tools (Maven)
 - [ ] Exercise 9.1 — Maven Concepts
@@ -117,11 +82,7 @@ wtc-java-prep/
 └── README.md (you r here)
 ```
 
-<<<<<<< HEAD
-Put your `.java` solution files next to the exercises or in a `src/` folder. Commit after each exercise.
-=======
 Put your `.java` solution files in the solutions next to the exercises folder. Commit after each exercise. Working on tests
->>>>>>> upstream/main
 
 
 ## Running tests
